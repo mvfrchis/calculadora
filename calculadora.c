@@ -28,5 +28,16 @@ int main(void)
     {
         printf("El producto de los dos numeros es  %0.1f\n", (x * y));
     }
+
+    if (operador == '/')
+    {
+        if(y =! 0)
+        {
+            printf("La division de los dos numeros es %0.1f\n", (x / y));
+        }
+        else {
+            printf("No se puede dividir entre 0 :(\n");
+        }
+    }
     return (0);
 }
