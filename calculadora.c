@@ -1,3 +1,13 @@
+/*
+Integrantes del equipo:
+-Santos Rivera Leilani Shareni
+-Marin Torres Ma. Fernanda
+
+Profesora: Perez de los Santos Mondragon Tanibet
+Grupo: 4CM1
+Materia: Sistemas Operativos
+*/
+
 #include <stdio.h>
 int main(void)
 {
