@@ -2,6 +2,7 @@
 Integrantes del equipo:
 -Santos Rivera Leilani Shareni
 -Marin Torres Ma. Fernanda
+-Dominguez Torres Dana Paola
 
 Profesora: Perez de los Santos Mondragon Tanibet
 Grupo: 4CM1
